@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+
+namespace Animation_AlexH
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("               _______");
+            Console.WriteLine("              /  \\\\\\\\\\\\\\");
+            Console.WriteLine("    _       / ___ \\\\\\\\\\\\\\");
+            Console.WriteLine("   /')      ||   ||     |");
+            Console.WriteLine("  /)\\       ||   ||  #  |");
+            Console.WriteLine(" // /       ||   ||  #  |");
+            Console.WriteLine("/ \" \"       ||   ||_____|");
+          //  Thread.Sleep(1000);
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("               _______");
+            Console.WriteLine("              /  \\\\\\\\\\\\\\");
+            Console.WriteLine("     _      / ___ \\\\\\\\\\\\\\");
+            Console.WriteLine("    /')     ||   ||     |");
+            Console.WriteLine("   /)\\      ||   ||  #  |");
+            Console.WriteLine("  // /      ||   ||  #  |");
+            Console.WriteLine(" / \" \"      ||   ||_____|");
+            //  Thread.Sleep(1000);
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("               _______");
+            Console.WriteLine("              /  \\\\\\\\\\\\\\");
+            Console.WriteLine("      _     / ___ \\\\\\\\\\\\\\");
+            Console.WriteLine("     /')    ||   ||     |");
+            Console.WriteLine("    /)\\     ||   ||  #  |");
+            Console.WriteLine("   // /     ||   ||  #  |");
+            Console.WriteLine("  / \" \"     ||   ||_____|");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("               _______");
+            Console.WriteLine("              /  \\\\\\\\\\\\\\");
+            Console.WriteLine("       _    / ___ \\\\\\\\\\\\\\");
+            Console.WriteLine("      /')   ||   ||     |");
+            Console.WriteLine("     /)\\    ||   ||  #  |");
+            Console.WriteLine("    // /    ||   ||  #  |");
+            Console.WriteLine("   / \" \"    ||   ||_____|");
+            Console.ReadLine();
+
+        }
+    }
+}
